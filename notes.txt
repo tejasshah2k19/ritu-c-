@@ -1,0 +1,49 @@
+c -> POP [ procedure oriented programming ]
+c++ -> OOP [ object oriented programming ]
+   class , object , inheritance , abstraction , encapsulation , 
+
+class - logical , group , general  
+object - physical , member ,   special [ppt] 
+
+
+laptop -> class 
+dhiraj sir -> object
+mango -> class 
+think -> class 
+iphone13 -> 
+
+
+human=>  men => boy => 
+         dt     ashesh 
+
+data member + member function
+variable + function/method
+
+fn-> 
+method-> belongs to class
+
+class = variable + method 
+object use -> property [ variable , method ]
+
+
+
+class == structure 
+
+class Student {
+
+
+};
+
+Student s;
+-------------------------------------------------------------
+
+
+private => access specifier 
+
+private property can not access outside class 
+how i can access property out side class ? 
+mark your property as public
+
+private - default 
+*protected 
+public 
