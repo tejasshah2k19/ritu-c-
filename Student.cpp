@@ -14,7 +14,7 @@ class Student{
     int maths,sci,eng;
     float perc;
 
-    public:
+    public:    
         void getData(){
             cout<<"Enter name and marks three subject";
             //insertion operator -> print 
